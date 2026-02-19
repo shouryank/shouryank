@@ -1,6 +1,8 @@
 # 💫 About Me:
 Hi, I’m Shourya 👋<br><br>I build intelligent, scalable systems at the intersection of machine learning and software engineering.<br><br>I’m currently pursuing my Master’s in Computer Science at NC State, where I work on climate-driven infrastructure modeling and decision-focused ML systems. Previously, I worked as a Software Development Engineer at Microchip Technology, leading development of high-performance web applications and real-time backend systems.<br><br>🧠 My interests include:<br>• Machine Learning Systems<br>• Full-Stack & Backend Engineering<br>• Data-Driven Infrastructure Solutions<br><br>Beyond tech, I serve as Secretary of Maitri at NC State, helping build community through student engagement and cultural initiatives.<br><br>Outside of work, I’m passionate about:<br>🏎 Sports & Racing — F1, cricket, and badminton<br>💻 Tech & Hardware — computer hardware and performance optimization<br>🌄 Adventure & Driving — trekking, road trips, and exploring cars<br><br>Let’s build something meaningful.
 
+More about my work at: https://shouryank01.framer.ai/
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shourya-nanda-kumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shouryank01@gmail.com) 
@@ -11,9 +13,6 @@ Hi, I’m Shourya 👋<br><br>I build intelligent, scalable systems at the inter
 ![](https://github-readme-stats.vercel.app/api?username=shouryank&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=shouryank&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shouryank&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shouryank&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
