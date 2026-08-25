@@ -6,7 +6,7 @@ Previously, I worked at **Microchip Technology** on production network-managemen
 Currently exploring software engineering at the intersection of **backend systems, cloud infrastructure, and applied AI**.
 
 🌎 Outside of Code
-F1 🏎️ • Cricket 🏏 • Badminton 🏸 • Road Trips 🚗 • Hiking 🌄 • Computer Hardware 🖥️
+F1 🏎️ • Cricket 🏏 • Pickleball 🏸 • Road Trips 🚗 • Hiking 🌄 • Computer Hardware 🖥️
 
 More about my work at: https://shouryank01.framer.ai/
 
