@@ -1,17 +1,17 @@
 # 💫 About Me:
-# Hi, I’m Shourya 👋
+## Hi, I’m Shourya 👋
 I’m a **Software Engineer** building backend, full-stack, and ML-powered systems.
 I recently completed my **Master of Computer Science at NC State**, where I worked on Python-based climate/data systems and semantic ML pipelines.
 Previously, I worked at **Microchip Technology** on production network-management software using **React, Java/Spring, Hibernate, MariaDB, and WebSockets**.
 Currently exploring software engineering at the intersection of **backend systems, cloud infrastructure, and applied AI**.
 
-## 🌎 Outside of Code
+# 🌎 Outside of Code
 F1 🏎️ • Cricket 🏏 • Badminton 🏸 • Road Trips 🚗 • Hiking 🌄 • Computer Hardware 🖥️
 
 More about my work at: https://shouryank01.framer.ai/
 
 
-## 📫 Let's Connect
+# 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shourya-nanda-kumar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shouryank01@gmail.com) 
 
 # 💻 Tech Stack:
@@ -71,7 +71,7 @@ More about my work at: https://shouryank01.framer.ai/
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
