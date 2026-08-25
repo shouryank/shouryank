@@ -1,11 +1,11 @@
 # 💫 About Me:
-## Hi, I’m Shourya 👋
+### Hi, I’m Shourya 👋
 I’m a **Software Engineer** building backend, full-stack, and ML-powered systems.
 I recently completed my **Master of Computer Science at NC State**, where I worked on Python-based climate/data systems and semantic ML pipelines.
 Previously, I worked at **Microchip Technology** on production network-management software using **React, Java/Spring, Hibernate, MariaDB, and WebSockets**.
 Currently exploring software engineering at the intersection of **backend systems, cloud infrastructure, and applied AI**.
 
-# 🌎 Outside of Code
+🌎 Outside of Code
 F1 🏎️ • Cricket 🏏 • Badminton 🏸 • Road Trips 🚗 • Hiking 🌄 • Computer Hardware 🖥️
 
 More about my work at: https://shouryank01.framer.ai/
